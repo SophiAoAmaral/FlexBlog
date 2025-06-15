@@ -214,6 +214,23 @@ img{
 .preco-item a:hover{
     color: #122ab2;
 }
+.qualidade{
+    max-width: 960px;
+    margin: 60px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.qualidade-item{
+    flex: 1 1 300px;
+    margin:20px 10px;
+    
+}
+.qualidade-item h2{
+
+}
+
+
+
 
 @media(max-width:800px){
     .preco{
